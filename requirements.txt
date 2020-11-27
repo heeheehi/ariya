@@ -1,0 +1,3 @@
+Flask
+flask_cors
+pytz==2019.1
